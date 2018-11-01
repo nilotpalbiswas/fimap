@@ -10,7 +10,7 @@
 	</absolute_files>
 	
 	<remote_files>
-		<file path="http://www.tha-imax.de/fimap_testfiles/test" find="This is the right thing." flags="rR"  unix="1" windows="1"/>
+		<file path="https://raw.githubusercontent.com/nilotpalbiswas/fimap/master/fimap/fimap_testfiles/test" find="This is the right thing." flags="rR"  unix="1" windows="1"/>
 	</remote_files>
 	
 	<log_files>
