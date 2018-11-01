@@ -86,10 +86,10 @@
 		<file path="/etc/passwd" find="root:" flags="r" unix="1" windows="0"/>
 		<file path="c:\boot.ini" find="[operating" flags="r" unix="0" windows="1"/>
 		<file path="c:\windows\win.ini" find="[fonts" flags="r" unix="0" windows="1"/>
-                <file path="http://www.tha-imax.de/fimap_testfiles/test" find="This is the right thing." flags="rR" unix="1" windows="1"/>
-                <file path="http://www.tha-imax.de/fimap_testfiles/test.php" find="This is the right thing." flags="rR" unix="1" windows="1"/>
-                <file path="http://www.tha-imax.de/fimap_testfiles/test.html" find="This is the right thing." flags="rR" unix="1" windows="1"/>
-                <file path="http://www.tha-imax.de/fimap_testfiles/test.inc" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+                <file path="https://raw.githubusercontent.com/nilotpalbiswas/fimap/master/fimap/fimap_testfiles/test" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+                <file path="https://raw.githubusercontent.com/nilotpalbiswas/fimap/master/fimap/fimap_testfiles/test.php" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+                <file path="https://raw.githubusercontent.com/nilotpalbiswas/fimap/master/fimap/fimap_testfiles/test.html" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+                <file path="https://raw.githubusercontent.com/nilotpalbiswas/fimap/master/fimap/fimap_testfiles/test.inc" find="This is the right thing." flags="rR" unix="1" windows="1"/>
         </blind_files>
 	<methods>
 		<unix concatcommand=";">
